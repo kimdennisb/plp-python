@@ -1,0 +1,1 @@
+This is an example for file handling with concatenation of this text!
